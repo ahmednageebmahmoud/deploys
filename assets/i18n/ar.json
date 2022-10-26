@@ -1,0 +1,297 @@
+{
+  "SIGNUP": {
+    "TITLE": "تسجيل حساب جديد",
+    "HAVEACCOUNT": "لديك حساب؟ ",
+    "REGISTRATION_CONDITIONS": "شروط التسجيل",
+    "I_AGREE": "أوافق على"
+  },
+  "INPUTS": {
+    "NAME": "الإسم",
+    "EMAIL": "البريد الإلكتروني",
+    "MOBILE": "رقم الجوال",
+    "WHATSAPP": "الواتساب",
+    "PASSWORD": "كلمة المرور",
+    "SEND": "إرسال",
+    "RESETPASSWORD": "استعادة كلمة المرور",
+    "SIGNUP": "تسجيل",
+    "SIGNIN": "دخول",
+    "MESSAGE": "الرسالة"
+  },
+  "ALERTS": {
+    "MANDATORY": "هذا الحقل مطلوب",
+    "MAXLENGTH50": "الحد الأقصي ٥٠ خانه",
+    "MINLENGTH5": "الحد الادني ٥ خانات",
+    "MINLENGTH6": "الحد الادني ٦ خانات",
+    "NUMBERSONLY": "يجب كتابة أرقام فقط",
+    "NOT_SAME": "كلمة المرور غير متطابقة",
+    "CONTENT_LANGS": "المحتوى متوفر باللغات"
+  },
+  "SIGNIN": {
+    "TITLE": "تسجيل دخول",
+    "HAVENOTACCOUNT": "ليس لديك حساب جديد؟ ",
+    "FORGETPASSWORD": "استعادة كلمة المرور؟"
+  },
+  "FORGETPASSWORD": {
+    "TITLE": "استعادة كلمة المرور"
+  },
+  "RESETPASSWORD": {
+    "TITLE": "استعادة كلمة المرور"
+  },
+  "VERIFY": {
+    "TITLE": "فضلا أدخل رقم هاتفك الجوال:"
+  },
+  "VERIFY_EMAIL": {
+    "TITLE": "الرجاء إدخال<br/> رمز التحقق الذي أرسلناه عبر البريد الإلكتروني:",
+    "VERIFY": "تحقق",
+    "SKIP": "تخطي",
+    "RESEND": "إعادة إرسال الرمز"
+  },
+  "MAINMENU": {
+    "SAFARI": "يخوت الغوص",
+    "DIVE_CENTERS": "مراكز الغوص",
+    "TRIPS": "رحلات",
+    "COURSES": "دورات",
+    "ABOUT_US": "من نحن",
+    "CONTACT_US": "اتصل بنا",
+    "MY_RESERVATIONS": "حجوزاتي",
+    "REGISTER": "تسجيل",
+    "SIGNUP": "تسجيل حساب جديد",
+    "SIGNIN": "تسجيل دخول",
+    "PROFILE": "حسابي",
+    "NOTIFICATIONS": "التنبيهات",
+    "READ_ALL": "قراءة الكل",
+    "DELETE_ALL": "حذف الكل",
+    "LOGOUT": "خروج"
+  },
+  "HOME": {
+    "TITLE": "اختر وجهتك..",
+    "SUBTITLE": "واستمتع بأجمل فعاليات الغوص..",
+    "NEARME": "موقعي الحالي",
+    "SAFARI": "يخوت الغوص",
+    "DIVE_CENTERS": "مراكز الغوص",
+    "TRIPS": "رحلات",
+    "COURSES": "دورات",
+    "SEARCH": "بحث",
+    "DAYS": "أيام",
+    "USD": "دولار",
+    "SAR": "ر.س",
+    "START_FROM": "تبدأ من",
+    "SEATS": "المقاعد",
+    "FROM": "من",
+    "SEATS_AVAILABLE": "مقاعد متاحة",
+    "MORE": "المزيد..",
+    "LESS": "أقل..",
+    "REGISTER_NOW": "سجل الآن",
+    "FEATURE_1": {
+      "TITLE": "بحث شامل",
+      "DESC": "لأفضل رحلات الغوص"
+    },
+    "FEATURE_2": {
+      "TITLE": "دورات متخصصة",
+      "DESC": "تعلم الغوص بسهولة"
+    },
+    "FEATURE_3": {
+      "TITLE": "طرق دفع مريحة",
+      "DESC": "دفع فوري أو لاحق"
+    },
+    "FEATURE_4": {
+      "TITLE": "تواصل مستمر",
+      "DESC": "خدمة عملاء  7 / 24 "
+    },
+    "LIVEABOARD_TRIPS": {
+      "TITLE": "أحدث رحلات يخوت الغوص",
+      "DESC": "رحلات متنوعة تزيد من إثارة البحر"
+    },
+    "LATEST_TRIPS": {
+      "TITLE": "أحدث الرحلات",
+      "DESC": "رحلات فريدة بأسعار منافسة"
+    },
+    "LATEST_COURSES": {
+      "TITLE": "أحدث الدورات التدريبية",
+      "DESC": "تعلم واحترف الغوص على يد أفضل المدربين"
+    },
+    "LATEST_DEVCENTERS": {
+      "TITLE": "مراكز الغوص",
+      "DESC": "تعرّف على مراكز الغوص القريبة منك "
+    },
+    "LATEST_DEVCENTERS_FRELANCERS": {
+      "TITLE": "المدربون المستقلون",
+      "DESC": "تعرّف على المدربين المستقلين القريبين منك "
+    },
+    "DOWNLOAD_APP": {
+      "TITLE": "حمل تطبيق دايف هود..",
+      "DESC": "اطلع على آخر العروض وقم بإدارة حجوزاتك بسهولة..",
+      "EMAIL": "البريد الإلكتروني"
+    },
+    "NEWSLATTER": {
+      "TITLE": "اشترك في القائمــة البريديـــة",
+      "DESC": "ليصلك جديد فعاليات الغوص"
+    }
+  },
+  "SAFARI": {
+    "TITLE": "يخوت الغوص..",
+    "SUBTITLE": "رحلات متنوعة تزيد من إثارة البحر..",
+    "SEARCH_TITLE": "ابحث عن رحلات يخوت الغوص ..",
+    "RESULT_TITLE": "يخوت الغوص"
+  },
+  "DIVE_CENTERS": {
+    "TITLE": "ابحث..",
+    "SUBTITLE": "وتعرف على مراكز الغوص القريبة منك..",
+    "SEARCH_TITLE": "ابحث عن مراكز الغوص ..",
+    "CONTACT": "تواصل",
+    "FOLLOW": "تـــابـــع",
+    "TRIPS": "الرحلات",
+    "SAFARI": "يخوت الغوص",
+    "COURSES": "الدورات",
+    "RESULT_TITLE": "مراكز الغوص",
+    "FREELANCER_RESULT_TITLE": "مراكز الغوص المستقلة"
+  },
+  "TRIPS": {
+    "TITLE": "رحلات بحرية..",
+    "SUBTITLE": "رحلات فريدة بأسعار منافسة..",
+    "SEARCH_TITLE": "ابحث عن الرحلات ..",
+    "RESULT_TITLE": "الرحلات",
+    "ABOUT_TRIP": "عن الرحلة"
+  },
+  "COURSES": {
+    "TITLE": "دورات تدريبية..",
+    "SUBTITLE": "تعلم واحترف الغوص على يد أفضل المدربين..",
+    "SEARCH_TITLE": "ابحث عن الدورات ..",
+    "RESULT_TITLE": "الدورات",
+    "ABOUT_COURSE": "عن الدورة"
+  },
+  "FOOTER": {
+    "MENU": {
+      "ABOUT_US": "من نحن",
+      "SAFARI": "يخوت الغوص",
+      "DIVE_CENTERS": "مراكز الغوص",
+      "COURSES": "دورات",
+      "TRIPS": "رحلات",
+      "PAYMENT_POLICY": "سياسة الدفع",
+      "PRIVACY_POLICY": "سياسة الخصوصية",
+      "AFFILIATE": "التسويق بالعمولة",
+      "REGISTER_AS_SP": "التسجيل كمزود خدمة",
+      "CAREERS": "وظائف",
+      "TERMS": "الشروط والأحكام",
+      "SITEMAP": "خريطة الموقع",
+      "CONTACT_US": "اتصل بنا"
+    },
+    "RIGHTS": "جميع الحقوق محفوظة لدايف هود © 2020"
+  },
+  "BUTTONS": {
+    "VIEW_MORE": "عرض المزيد",
+    "BOOK_NOW": "احجز الآن",
+    "SEND": "إرسال",
+    "CHANGE_PASSWORD": "تغيير كلمة المرور",
+    "SAVE": "حفظ"
+  },
+  "LOADING": {
+    "PROCESSING": "جاري...",
+    "NO_DATA": "لا يوجد بيانات "
+  },
+  "FILTER": {
+    "MAP": "الخريطة",
+    "DAYS": "عدد الأيام ",
+    "PRICE": "السعر"
+  },
+  "PROFILE": {
+    "OLD_PASSWORD": " كلمة المرور القديمة",
+    "NEW_PASSWORD": " كلمة المرور الجديدة",
+    "EDIT_PROFILE": "تعديل الملف الشخصي:",
+    "GENDER": "الجنس",
+    "COUNTRY": "البلد",
+    "MALE": "ذكر",
+    "FEMALE": "أنثى",
+    "UPDATE": "تحديث",
+    "NOT_VERFIED": "غير مفعل",
+    "VERIFY_EMAIL": "تفعيل البريد الالكتروني",
+    "CONFIRM_PASSWORD": "تأكيد كلمة المرور",
+    "CONFIRM": "تأكيد"
+  },
+  "LIVEABOARD_SHOW": {
+    "LENGTH_WIDTH": "الطول / العرض",
+    "YEAR_BUILT": "البناء / الترميم",
+    "TOTAL_CABINS": "مقصورات",
+    "RENTAL_EQUIPMENT": "معدات للإيجار",
+    "WIFI": "إنترنت",
+    "NITROX": "نتركس",
+    "FEATURES": "مزايا",
+    "SITEPALN_IMAGES": "مخطط المركب",
+    "TRIPS": "الرحلات المتوفرة",
+    "NIGHTS": "ليالي",
+    "AVAILABLE": "متاحة",
+    "NOT_AVAILABLE": "غير متاحة",
+    "PROVIDED_BY": "مقدمة من",
+    "TO": "إلى",
+    "DIVES": "الغوصات",
+    "VIEW_CABIN": "استعرض تفاصيل الكبينة",
+    "SHAREABLE": "مشتركة: ",
+    "YES": " نعم",
+    "NO": " لا",
+    "AVAILABLE_CABINS": "المقصورات المتوفرة",
+    "CHOOSE_CABINS": "اختر المقصورات التي ترغب في حجزها",
+    "FULLCHARTER": "حجز كامل",
+    "FREELANCER": "مستقل"
+  },
+  "INVOICE": {
+    "HELLO": "مرحبا",
+    "THANKYOU": "شكرا للحجز مع دايف هود",
+    "ANY_Q": "هل لديك سؤال حول حجزك؟",
+    "BOOKING_SUPPORT": "دعم العملاء على مدار الساعة طوال أيام الأسبوع",
+    "TRAVEL_EASILY": "السفر والغوص بسهولة",
+    "TRAVEL_SAFE": "السفر والغوص بأمان",
+    "DOWNLOAD_APP": {
+      "TITLE": "حمل",
+      "DESC": "تطبيق دايف هود.."
+    },
+    "PRINT_INVOICE": "أطبع الفاتوره",
+    "MORE_DETAILS": "المزيد من التفاصيل",
+    "START_DATE": "تاريخ البدء",
+    "SERVICE_PROVIDER": "مقدم الخدمة",
+    "EMAIL": "البريد الإلكتروني",
+    "PAYMENT": "الدفع",
+    "BOOKING_DETAILS": "تفاصيل الحجز:",
+    "SUB_TOTAL": "الإجمالي:",
+    "TOTAL": "المجموع:",
+    "TAX": "الخدمات والضريبة",
+    "AVALABILE_PAYMENT_METHODS": "وسائل الدفع المتاحة:",
+    "PAYMENT_METHOD": "طريقة الدفع:",
+    "PAYNOW": "الدفع الآن",
+    "PAYON_ARRIVAL": "الدفع عند الوصول",
+    "PAY": "ادفع ( غير قابل للاسترجاع )",
+    "ADDITIONS": "إضافات",
+    "PEOPLE_NUMBER": "عدد الاشخاص:",
+    "EQUIPMENTS": "المعدات:",
+    "COURSES": "الدورات: ",
+    "SERVICES": " الخدمات: ",
+    "FOR_ONE_PERSON": "للشخص الواحد",
+    "MEANS_OF_COMFORT": "وسائل الراحة:",
+    "BEDS": "الأسرّة",
+    "ROOM_SIZE": "حجم الغرفة",
+    "INTERNET": "إنترنت",
+    "AC": "التكييف",
+    "BATHROOM": "حمام خاص",
+    "CABIN_TYPE": "نوع المقصورة: ",
+    "RESERVE_CABIN": "حجز المقصورة بأكملها",
+    "AGREE": "موافق",
+    "IDONOT": "لا أرغب بذلك",
+    "CABIN_NOTE": "ملاحظة: في المقصورة المشتركة يتم إقرانك بشخص آخر وتشارك المقصورة معه.",
+    "FAVORITES": "المفضلة",
+    "SEATS": "عدد المقاعد",
+    "HOME": "الرئيسية",
+    "REASON": "السبب: ",
+    "FAIL": "حالة العملية: عملية فاشلة",
+    "PROGRESS": "شكراً لك، عملية الحجز قيد المراجعة  <br/>وسوف يصلك بريد إلكتروني قريباً فور تأكيد عملية الحجز."
+  },
+  "CONTACT_US": {
+    "TITLE": "تواصل معنا",
+    "SUB_TITLE1": "لأية استفسارات! يسعدنا تواصلكم معنا.",
+    "SUB_TITLE2": "طرق أخرى للاتصال",
+    "ARE_YOU_SP": "هل أنت مزود خدمة؟",
+    "BOOK_DEMO_NOW": "احجز موعد لعرض توضيحي"
+  },
+  "Pagination":{
+"Next":"التالى",
+"Previous":"السابق"
+  }
+}

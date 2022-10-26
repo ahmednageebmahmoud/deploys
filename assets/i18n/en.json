@@ -1,0 +1,301 @@
+{
+  "SIGNUP": {
+    "TITLE": "Registration",
+    "HAVEACCOUNT": "Have an account? ",
+    "REGISTRATION_CONDITIONS": "registration conditions",
+    "I_AGREE": "I agree to"
+  },
+  "INPUTS": {
+    "SIGNUP": "Registration",
+    "SIGNIN": "Sign in",
+    "SEND": "Send",
+    "RESETPASSWORD": "Reset Password",
+    "NAME": "Name",
+    "EMAIL": "Email",
+    "MOBILE": "Phone Number",
+    "WHATSAPP": "Whatsapp",
+    "PASSWORD": "Password",
+    "MESSAGE": "Comment or Message"
+  },
+  "ALERTS": {
+    "MANDATORY": "This field is mandatory",
+    "MAXLENGTH50": "Max length 50 digits",
+    "MINLENGTH5": "Min length 5 digits",
+    "MINLENGTH6": "Min length 6 digits",
+    "NUMBERSONLY": "This field should be write numbers only 0:9",
+    "NOT_SAME": "Not Same passwords",
+    "CONTENT_LANGS": "Content languages"
+  },
+  "SIGNIN": {
+    "TITLE": "Sign in",
+    "HAVENOTACCOUNT": "Do not have an account? ",
+    "FORGETPASSWORD": "Forgot password?"
+  },
+  "FORGETPASSWORD": {
+    "TITLE": "Forgot Password"
+  },
+  "RESETPASSWORD": {
+    "TITLE": "Enter new password"
+  },
+  "VERIFY": {
+    "TITLE": "Please enter your phone number:"
+  },
+  "VERIFY_EMAIL": {
+    "TITLE": "Please enter the<br/> verification code we sent via Email:",
+    "VERIFY": "Verify",
+    "SKIP": "Skip",
+    "RESEND": "Resend code"
+  },
+  "RIGHTS": {
+    "RIGHTS": "© Divehood, All rights reserved 2019"
+  },
+  "MAINMENU": {
+    "SAFARI": "Liveaboards",
+    "DIVE_CENTERS": "Dive Centers",
+    "TRIPS": "Trips",
+    "COURSES": "Courses",
+    "ABOUT_US": "About",
+    "CONTACT_US": "Contact",
+    "MY_RESERVATIONS": "Reservations",
+    "REGISTER": "Registration",
+    "SIGNUP": "Registration",
+    "SIGNIN": "Sign in",
+    "PROFILE": "Profile",
+    "NOTIFICATIONS": "Notifications",
+    "READ_ALL": "Read all",
+    "DELETE_ALL": "Delete all",
+    "LOGOUT": "Logout"
+  },
+  "HOME": {
+    "TITLE": "Choose your destination ..",
+    "SUBTITLE": "& Enjoy the most beautiful diving events ..",
+    "NEARME": "Near Me",
+    "SAFARI": "Liveaboards",
+    "DIVE_CENTERS": "Dive Centers",
+    "TRIPS": "Trips",
+    "COURSES": "Courses",
+    "SEARCH": "Search",
+    "DAYS": "Days",
+    "USD": "USD",
+    "SAR": "SAR",
+    "START_FROM": "Start from",
+    "SEATS": "Seats",
+    "FROM": "from",
+    "SEATS_AVAILABLE": "Seats available",
+    "MORE": "More..",
+    "LESS": "Less..",
+    "REGISTER_NOW": "Register now",
+    "FEATURE_1": {
+      "TITLE": "comprehensive search",
+      "DESC": "For the best diving trips"
+    },
+    "FEATURE_2": {
+      "TITLE": "Specialized courses",
+      "DESC": "Learn to dive easily"
+    },
+    "FEATURE_3": {
+      "TITLE": "convenient payment methods",
+      "DESC": "immediate or later payment"
+    },
+    "FEATURE_4": {
+      "TITLE": "ongoing communication",
+      "DESC": "24/7 Customer Service"
+    },
+    "LIVEABOARD_TRIPS": {
+      "TITLE": "Upcoming Liveaboard Trips",
+      "DESC": "Various trips increase the excitement of the sea"
+    },
+    "LATEST_TRIPS": {
+      "TITLE": "Upcoming trips",
+      "DESC": "Unique trips at competitive prices"
+    },
+    "LATEST_COURSES": {
+      "TITLE": "Most recent courses",
+      "DESC": "Learn and master diving with the best coaches"
+    },
+    "LATEST_DEVCENTERS": {
+      "TITLE": "Dive Centers",
+      "DESC": "Find out about diving centers near you"
+    },
+    "LATEST_DEVCENTERS_FRELANCERS": {
+      "TITLE": "Freelancers",
+      "DESC": "Find freelancers near you for diving experience and services."
+    },
+    "DOWNLOAD_APP": {
+      "TITLE": "Download the Divehood App..",
+      "DESC": "Read the latest offers and manage your reservations easily ..",
+      "EMAIL": "Email address"
+    },
+    "NEWSLATTER": {
+      "TITLE": "Subscribe to the mailing list",
+      "DESC": "to receive new diving events"
+    }
+  },
+  "SAFARI": {
+    "TITLE": "Choose your destination ..",
+    "SUBTITLE": "& Enjoy the most beautiful diving events ..",
+    "SEARCH_TITLE": "Search ..",
+    "RESULT_TITLE": "Liveaboards"
+  },
+  "DIVE_CENTERS": {
+    "TITLE": "Choose your destination ..",
+    "SUBTITLE": "& Enjoy the most beautiful diving events ..",
+    "SEARCH_TITLE": "Search ..",
+    "CONTACT": "Contact",
+    "FOLLOW": "Follow",
+    "TRIPS": "Trips",
+    "SAFARI": "Liveaboards",
+    "COURSES": "Courses",
+    "RESULT_TITLE": "Dive Centers",
+    "FREELANCER_RESULT_TITLE": "Freelancer Dive Centers"
+  },
+  "TRIPS": {
+    "TITLE": "Choose your destination ..",
+    "SUBTITLE": "& Enjoy the most beautiful diving events ..",
+    "SEARCH_TITLE": "Search ..",
+    "RESULT_TITLE": "Trips",
+    "ABOUT_TRIP": "About trip"
+  },
+  "COURSES": {
+    "TITLE": "Choose your destination ..",
+    "SUBTITLE": "& Enjoy the most beautiful diving events ..",
+    "SEARCH_TITLE": "Search ..",
+    "RESULT_TITLE": "Courses",
+    "ABOUT_COURSE": "About course"
+  },
+  "FOOTER": {
+    "MENU": {
+      "SAFARI": "Liveaboards",
+      "DIVE_CENTERS": "Dive Centers",
+      "TRIPS": "Trips",
+      "COURSES": "Courses",
+      "ABOUT_US": "About Us",
+      "PAYMENT_POLICY": "Payment Policy",
+      "PRIVACY_POLICY": "Privacy Policy",
+      "AFFILIATE": "Affiliate program",
+      "REGISTER_AS_SP": "Service Providers",
+      "CAREERS": "Careers",
+      "TERMS": "Terms and Conditions",
+      "SITEMAP": "Sitemap",
+      "CONTACT_US": "Contact Us"
+    },
+    "RIGHTS": "© Divehood, All rights reserved 2019"
+  },
+  "BUTTONS": {
+    "VIEW_MORE": "View more",
+    "BOOK_NOW": "Book now",
+    "SEND": "Send",
+    "CHANGE_PASSWORD": "Change password",
+    "SAVE": "Save"
+  },
+  "LOADING": {
+    "PROCESSING": "Processing...",
+    "NO_DATA": "No data found "
+  },
+  "FILTER": {
+    "MAP": "Map",
+    "DAYS": "Days",
+    "PRICE": "Price"
+  },
+  "PROFILE": {
+    "OLD_PASSWORD": "Old password",
+    "NEW_PASSWORD": "New password",
+    "EDIT_PROFILE": "Edit profile:",
+    "GENDER": "Gender",
+    "COUNTRY": "Country",
+    "MALE": "Male",
+    "FEMALE": "Female",
+    "UPDATE": "Update profile",
+    "NOT_VERFIED": "Not verified",
+    "VERIFY_EMAIL": "Verify email",
+    "CONFIRM_PASSWORD": "Confirm password",
+    "CONFIRM": "Confirm"
+  },
+  "LIVEABOARD_SHOW": {
+    "LENGTH_WIDTH": "Lenght/Width",
+    "YEAR_BUILT": "Year built/Renovated",
+    "TOTAL_CABINS": "Total cabins",
+    "RENTAL_EQUIPMENT": "Rental equipment",
+    "WIFI": "WIFI",
+    "NITROX": "Nitrox",
+    "FEATURES": "Features",
+    "SITEPALN_IMAGES": "Siteplan images",
+    "TRIPS": "Available trips",
+    "NIGHTS": "Nights",
+    "AVAILABLE": "Available",
+    "NOT_AVAILABLE": "Not available",
+    "PROVIDED_BY": "By",
+    "TO": "to",
+    "DIVES": "Dives",
+    "VIEW_CABIN": "View cabin",
+    "SHAREABLE": "Shareable: ",
+    "YES": " Yes",
+    "NO": " No",
+    "AVAILABLE_CABINS": "Available cabins",
+    "CHOOSE_CABINS": "Choose the cabins you wish to book",
+    "FULLCHARTER": "FullCharter",
+    "FREELANCER": "Freelancer"
+  },
+  "INVOICE": {
+    "HELLO": "Hello",
+    "THANKYOU": "Thank you for booking with Divehood",
+    "ANY_Q": "Any Question about your booking?",
+    "BOOKING_SUPPORT": "24/7 Customer support",
+    "TRAVEL_EASILY": "Travel and Dive Easily",
+    "TRAVEL_SAFE": "Travel and Dive safe",
+    "DOWNLOAD_APP": {
+      "TITLE": "Download",
+      "DESC": "the Divehood App"
+    },
+    "PRINT_INVOICE": "Print the invoice",
+    "MORE_DETAILS": "More details",
+    "START_DATE": "Start Date",
+    "SERVICE_PROVIDER": "Service provider",
+    "EMAIL": "Email",
+    "PAYMENT": "Payment",
+    "BOOKING_DETAILS": "Booking details",
+    "SUB_TOTAL": "Sub total:",
+    "TOTAL": "Total:",
+    "TAX": "Services and tax",
+    "AVALABILE_PAYMENT_METHODS": "Available payment methods:",
+    "PAYMENT_METHOD": "Payment method:",
+    "PAYNOW": "Pay now",
+    "PAYON_ARRIVAL": "Payment on arrival",
+    "PAY": "PAY (NON-REFUNDABLE)",
+    "ADDITIONS": "Additions",
+    "PEOPLE_NUMBER": "Number of people:",
+    "EQUIPMENTS": "Equipments",
+    "COURSES": "Courses",
+    "SERVICES": "Services",
+    "FOR_ONE_PERSON": "For one person",
+    "MEANS_OF_COMFORT": "Means of comfort",
+    "BEDS": "Beds",
+    "ROOM_SIZE": "Room size",
+    "INTERNET": "Internet",
+    "AC": "AC",
+    "BATHROOM": "Private bathroom",
+    "CABIN_TYPE": "Cabin type: ",
+    "RESERVE_CABIN": "Reserve the entire cabin",
+    "AGREE": "Agree",
+    "IDONOT": "I don't want that",
+    "CABIN_NOTE": "Note: In a shared cabin, you are paired with and share a cabin with another person.",
+    "FAVORITES": "Favorites",
+    "SEATS": "Seats",
+    "HOME": "Home",
+    "REASON": "Reason: ",
+    "FAIL": "Transaction status: Declined",
+    "PROGRESS": "Thank you, the reservation process is under review <br/> and you will receive an email shortly upon confirmation of the reservation process."
+  },
+  "CONTACT_US": {
+    "TITLE": "Contact Us",
+    "SUB_TITLE1": "For any inquiries! We are glad to communicate with you.",
+    "SUB_TITLE2": "Other ways to connect",
+    "ARE_YOU_SP": "Are you service provider?",
+    "BOOK_DEMO_NOW": "Book a demo now"
+  },
+
+  "Pagination":{
+    "Next":"Next",
+    "Previous":"Previous"
+      }
+}
